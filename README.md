@@ -1,8 +1,9 @@
 
 # Hi there, I'm Akindipe Muheez Omogbolahan! 👋
 
-![Banner Image](![Banner Image](https://raw.githubusercontent.com/Akins-Coded/Akins-Coded/main/assets/akindipe-muheez-banner.png)
-)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akins-Coded/Akins-Coded/main/assets/akindipe-muheez-banner.png" alt="Banner Image">
+</p>
 
 
 ## About Me 🚀
