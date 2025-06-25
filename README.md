@@ -9,7 +9,7 @@ I'm a passionate **Software Engineer** with hands-on experience in **Python, Mac
 
 - 🌱 Currently learning: **Advanced ML workflows, Cloud Deployment (AWS), and Elixir**
 - 🔭 Working on: **Role-based Booking API, Healthcare Translation App, and AI-Driven Inventory Management System**
-- 🌍 Languages: **Python, SQL, HTML, JavaScript (basic), English, Yoruba**
+- 🌍 Languages: **Python, SQL, HTML, CSS, JavaScript (basic)**
 - 📫 How to reach me: **[akindipemuheez@outlook.com](mailto:akindipemuheez@outlook.com)** | [My Contacts](https://linktr.ee/akinscoded)
 - ⚡ Fun fact: **I transitioned from accounting to tech and now blend financial logic with AI solutions.**
 
@@ -24,27 +24,26 @@ I'm a passionate **Software Engineer** with hands-on experience in **Python, Mac
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Featured Projects 💻
 
-### [Booking API](https://github.com/Akins-Coded)
+### [Booking API](https://github.com/Akins-Coded/Booking_App_Api.git)
 
 **Booking API** is a scalable backend system that allows users to view and reserve workspaces in real-time based on their roles. Built using **Django**, **DRF**, and **JWT Auth**, it optimizes allocation and enforces access-level rules.
 
-### [Inventory Management System API](https://github.com/Akins-Coded)
+### [Inventory Management System API](https://github.com/Akins-Coded/Inventory-Management-Api.git)
 
 An **API-first inventory manager** designed to help teams keep tabs on products and receive low-stock alerts. Includes CRUD functionality and role-based access. Built using **Django REST Framework** and **PostgreSQL**.
 
-### [Healthcare Translator App](https://github.com/Akins-Coded)
+### [Healthcare Translator App](https://healthcare-translator-app.vercel.app/)
 
 Real-time language translation tool for medical practitioners, leveraging **OpenAI’s API** for generating live subtitles and multi-language text output. Prioritizes **low latency and high accuracy**.
 
 ## Get in Touch 📬
 
-- **[My Portfolio & Links](https://linktr.ee/akinscoded)**
+- **[Contact Info](https://linktr.ee/akinscoded)**
 - **[LinkedIn](https://www.linkedin.com/in/akinscoded)**
 - **[GitHub](https://github.com/Akins-Coded)**
 
