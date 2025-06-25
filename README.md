@@ -1,7 +1,8 @@
 
 # Hi there, I'm Akindipe Muheez Omogbolahan! 👋
 
-![Banner Image](https://chat.openai.com/c/sandbox:/mnt/data/akindipe-muheez-banner.png)
+![Banner Image](![Banner Image](https://raw.githubusercontent.com/Akins-Coded/Akins-Coded/main/assets/akindipe-muheez-banner.png)
+)
 
 
 ## About Me 🚀
