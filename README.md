@@ -1,7 +1,7 @@
 
 # Hi there, I'm Akindipe Muheez Omogbolahan! 👋
 
-![Banner Image](https://linktr.ee/akinscoded)
+![Banner Image](https://www.canva.com/design/DAGUjzX2ktQ/9mE3mYu9ina7U7M11tsyuQ/view?utm_content=DAGUjzX2ktQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h98f29f0cab)
 
 ## About Me 🚀
 
