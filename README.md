@@ -2,7 +2,7 @@
 # Hi there, I'm Akindipe Muheez Omogbolahan! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akins-Coded/Akins-Coded/main/assets/akindipe-muheez-banner.png" alt="Banner Image">
+  <img src="https://raw.githubusercontent.com/Akins-Coded/Akins-Coded/main/Assets/akindipe-muheez-banner.png" alt="Banner Image">
 </p>
 
 
