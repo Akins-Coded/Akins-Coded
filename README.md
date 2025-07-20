@@ -13,7 +13,7 @@ I'm a passionate **Software Engineer** with hands-on experience in **Python, Mac
 - 🌱 Currently learning: **Advanced ML workflows, Cloud Deployment (AWS), and Elixir**
 - 🔭 Working on: **Role-based Booking API, Healthcare Translation App, and AI-Driven Inventory Management System**
 - 🌍 Languages: **Python, SQL, HTML, CSS, JavaScript (basic)**
-- 📫 How to reach me: **[akindipemuheez@outlook.com](mailto:akindipemuheez@outlook.com)** | [My Contacts](https://linktr.ee/akinscoded)
+- 📫 How to reach me: **[akindipemuheez@gmail.com](mailto:akindipemuheez@gmail.com)** | [My Contacts](https://linktr.ee/akinscoded)
 - ⚡ Fun fact: **I transitioned from accounting to tech and now blend financial logic with AI solutions.**
 
 ## My Skills 🧠
