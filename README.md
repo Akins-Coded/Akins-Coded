@@ -8,13 +8,19 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Engineer** with hands-on experience in **Python, Machine Learning, Deep Learning, and Backend Web Development**. I love solving real-world problems, learning continuously, and collaborating with people from diverse backgrounds to build impactful technology.
+I’m a **Python Developer** with a growing passion for **backend development** and building **scalable web applications**. My journey into tech started from a diverse background in **economics, accounting, and hardware troubleshooting**, which gave me a unique blend of **analytical thinking, precision, and problem-solving skills**.  
 
-- 🌱 Currently learning: **Advanced ML workflows, Cloud Deployment (AWS), and Elixir**
-- 🔭 Working on: **Role-based Booking API, Healthcare Translation App, and AI-Driven Inventory Management System**
-- 🌍 Languages: **Python, SQL, HTML, CSS, JavaScript (basic)**
-- 📫 How to reach me: **[akindipemuheez@gmail.com](mailto:akindipemuheez@gmail.com)** | [My Contacts](https://linktr.ee/akinscoded)
-- ⚡ Fun fact: **I transitioned from accounting to tech and now blend financial logic with AI solutions.**
+Currently, I’m focused on **Django, REST APIs, and database-driven applications**, while also exploring the basics of **AI/ML** as I continue to grow my expertise. I enjoy learning continuously, collaborating with others, and using technology to create practical solutions that make an impact.  
+
+
+- 🌱 Currently learning: **Containerization, CI/CD (GitHub Actions & Jenkins), and Query Optimization**  
+- 🔭 Working on: **Messaging App, Travel App, and Airbnb Clone App**  
+- 🌍 Languages: **Python, SQL, HTML, CSS, JavaScript (basic)**  
+- 🛠️ Frameworks & Tools: **Django, Pandas, NumPy, Scikit-Learn (beginner), Matplotlib (basic)**  
+- 💻 IDEs: **VS Code, PyCharm, Jupyter Notebook, Pydroid 3, Thonny**  
+- 📫 How to reach me: **[akindipemuheez@gmail.com](mailto:akindipemuheez@gmail.com)** | [My Contacts](https://linktr.ee/akinscoded)  
+- ⚡ Fun fact: **I transitioned from accounting to tech and now blend financial logic with software solutions.**
+
 
 ## My Skills 🧠
 
@@ -29,6 +35,11 @@ I'm a passionate **Software Engineer** with hands-on experience in **Python, Mac
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat-square&logo=github&logoColor=white)
+
 
 ## Featured Projects 💻
 
