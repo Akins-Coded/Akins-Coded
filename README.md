@@ -13,7 +13,7 @@ I’m a **Python Developer** with a growing passion for **backend development** 
 Currently, I’m focused on **Django, REST APIs, and database-driven applications**, while also exploring the basics of **AI/ML** as I continue to grow my expertise. I enjoy learning continuously, collaborating with others, and using technology to create practical solutions that make an impact.  
 
 
-- 🌱 Currently learning: **Containerization, CI/CD (GitHub Actions & Jenkins), and Query Optimization**  
+- 🌱 Applying: **Containerization, CI/CD (GitHub Actions & Jenkins), and Query Optimization**  
 - 🔭 Working on: **Messaging App, Travel App, and Airbnb Clone App**  
 - 🌍 Languages: **Python, SQL, HTML, CSS, JavaScript (basic)**  
 - 🛠️ Frameworks & Tools: **Django, Pandas, NumPy, Scikit-Learn (beginner), Matplotlib (basic)**  
